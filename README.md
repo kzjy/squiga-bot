@@ -1,0 +1,1 @@
+# squiga-bot
